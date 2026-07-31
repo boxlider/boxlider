@@ -1,6 +1,6 @@
-node_modules
+node_modules/
+dist/
+*.tsbuildinfo
 .env
-.wwebjs_auth/
-.wwebjs_cache/
-bot.log
-bot.err
+.env.*
+!.env.example
